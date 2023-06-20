@@ -20,3 +20,5 @@ Message
 -createdTime
 -modifiedTime
 -memberId (메시지 발송자)
+
+https://velog.io/@joypeb/Springboot3-Websocket-%EC%B1%84%ED%8C%85-Stomp-SockJS-Spring-Security
